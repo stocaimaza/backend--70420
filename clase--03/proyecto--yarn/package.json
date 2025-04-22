@@ -1,0 +1,12 @@
+{
+  "name": "proyecto--yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev":"node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

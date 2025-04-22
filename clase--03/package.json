@@ -1,0 +1,13 @@
+{
+  "name": "nombremuyespecial",
+  "version": "2.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
