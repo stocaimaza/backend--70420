@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kubernetes
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      app: login-usuarios
+  template:
+    metadata:
+      labels:
+        app: login-usuarios
+    spec:
+      containers:
+      - name: login-usuarios
+        image: coderhouse70420/login-usuarios:latest  
+        ports:
+        - containerPort: 8080
+        env:   
+        - name: MONGO_URL
+          value: "mongodb+srv://coderhouse70410:coderhouse@cluster0.34nyl.mongodb.net/Kubernetes?retryWrites=true&w=majority&appName=Cluster0"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: login-service
+spec:
+  selector:
+    app: login-usuarios
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 8080
+  type: LoadBalancer

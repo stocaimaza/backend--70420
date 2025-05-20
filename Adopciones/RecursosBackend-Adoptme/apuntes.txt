@@ -1,0 +1,62 @@
+
+Entrega Final
+Dockerizando nuestro Proyecto
+Objetivos generales
+
+Implementar las últimas mejoras en nuestro proyecto y Dockerizarlo. Listo!
+
+Objetivos específicos
+
+Se debe entregar:
+
+Documentar con Swagger el módulo de “Users”. Listo!
+
+Se debe entregar
+
+Desarrollar los tests funcionales para todos los endpoints del router “adoption.router.js”. Listo!
+
+Desarrollar el Dockerfile para generar una imagen del proyecto. Listo!
+
+Subir la imagen de Docker a Dockerhub y añadir en un ReadMe.md al proyecto que contenga el 
+link de dicha imagen. Listo!
+
+Se debe entregar
+
+Desarrollar los tests funcionales para todos los endpoints del router “adoption.router.js”. Listo!
+
+Desarrollar el Dockerfile para generar una imagen del proyecto. Listo!
+
+Subir la imagen de Docker a Dockerhub y añadir en un ReadMe.md al proyecto que contenga el link de dicha imagen. Listo!
+
+Criterios:
+Desarrollo de Tests Funcionales:
+
+Se han desarrollado tests funcionales para todos los endpoints del router adoption.router.js.
+
+Todos los endpoints del router adoption.router.js están cubiertos por tests funcionales.
+
+Los tests verifican de manera efectiva el funcionamiento de cada endpoint, incluyendo casos de éxito y casos de error.
+
+Creación del Dockerfile:
+
+Se ha creado un Dockerfile que permite generar una imagen del proyecto de manera adecuada.
+
+El Dockerfile está correctamente configurado para construir la imagen del proyecto de forma reproducible.
+
+Se incluyen todos los pasos necesarios en el Dockerfile para instalar las dependencias, copiar los archivos del proyecto y configurar el entorno de ejecución.
+
+Subida de la Imagen a Dockerhub:
+
+Se ha subido la imagen generada del proyecto a Dockerhub.
+
+La imagen del proyecto se encuentra disponible en Dockerhub y es accesible a través de un enlace público.
+
+Se ha añadido un ReadMe.md al proyecto que contiene el enlace a la imagen de Dockerhub.
+
+Documentación en ReadMe.md:
+
+El ReadMe.md del proyecto contiene información detallada, incluyendo el enlace a la imagen de Dockerhub.
+
+El ReadMe.md proporciona instrucciones claras para ejecutar el proyecto con Docker y acceder a la imagen en Dockerhub.
+
+Se incluyen detalles sobre cómo construir la imagen, ejecutar el contenedor y utilizar el proyecto de manera efectiva.

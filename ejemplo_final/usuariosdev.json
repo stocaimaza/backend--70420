@@ -1,0 +1,83 @@
+[
+    {
+      "first_name": "Homer",
+      "last_name": "Simpson",
+      "email": "homer.simpson@springfield.com",
+      "password": "doh12345",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Marge",
+      "last_name": "Simpson",
+      "email": "marge.simpson@springfield.com",
+      "password": "bluehair987",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Bart",
+      "last_name": "Simpson",
+      "email": "bart.simpson@springfield.com",
+      "password": "aycaramba321",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Simpson",
+      "email": "lisa.simpson@springfield.com",
+      "password": "jazz1234",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Maggie",
+      "last_name": "Simpson",
+      "email": "maggie.simpson@springfield.com",
+      "password": "pacifier5678",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Grampa",
+      "last_name": "Simpson",
+      "email": "grampa.simpson@springfield.com",
+      "password": "oldtimer1990",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Mr. Burns",
+      "last_name": "Smithers",
+      "email": "mr.burns@springfield.com",
+      "password": "evilgenius88",
+      "role": "admin",
+      "pets": []
+    },
+    {
+      "first_name": "Ned",
+      "last_name": "Flanders",
+      "email": "ned.flanders@springfield.com",
+      "password": "okilydokily123",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Moe",
+      "last_name": "Szyslak",
+      "email": "moe.szyslak@springfield.com",
+      "password": "bartender999",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Apu",
+      "last_name": "Nahasapeemapetilon",
+      "email": "apu@springfield.com",
+      "password": "kwikemart456",
+      "role": "user",
+      "pets": []
+    }
+  ]
+  

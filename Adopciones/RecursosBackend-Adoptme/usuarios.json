@@ -1,0 +1,97 @@
+[
+  {
+    "first_name": "Ana",
+    "last_name": "García",
+    "email": "ana.garcia@example.com",
+    "password": "hashedpassword1",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Luis",
+    "last_name": "Martínez",
+    "email": "luis.martinez@example.com",
+    "password": "hashedpassword2",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "María",
+    "last_name": "López",
+    "email": "maria.lopez@example.com",
+    "password": "hashedpassword3",
+    "role": "admin",
+    "pets": []
+  },
+  {
+    "first_name": "Carlos",
+    "last_name": "Sánchez",
+    "email": "carlos.sanchez@example.com",
+    "password": "hashedpassword4",
+    "role": "user",
+    "pets": [
+      {
+        "_id": "663a3f1be1b2e12345678901"
+      }
+    ]
+  },
+  {
+    "first_name": "Lucía",
+    "last_name": "Fernández",
+    "email": "lucia.fernandez@example.com",
+    "password": "hashedpassword5",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Jorge",
+    "last_name": "Ramírez",
+    "email": "jorge.ramirez@example.com",
+    "password": "hashedpassword6",
+    "role": "user",
+    "pets": [
+      {
+        "_id": "663a3f1be1b2e12345678902"
+      },
+      {
+        "_id": "663a3f1be1b2e12345678903"
+      }
+    ]
+  },
+  {
+    "first_name": "Isabel",
+    "last_name": "Torres",
+    "email": "isabel.torres@example.com",
+    "password": "hashedpassword7",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Pedro",
+    "last_name": "Ruiz",
+    "email": "pedro.ruiz@example.com",
+    "password": "hashedpassword8",
+    "role": "user",
+    "pets": []
+  },
+  {
+    "first_name": "Sofía",
+    "last_name": "Moreno",
+    "email": "sofia.moreno@example.com",
+    "password": "hashedpassword9",
+    "role": "admin",
+    "pets": [
+      {
+        "_id": "663a3f1be1b2e12345678904"
+      }
+    ]
+  },
+  {
+    "first_name": "Alberto",
+    "last_name": "Delgado",
+    "email": "alberto.delgado@example.com",
+    "password": "hashedpassword10",
+    "role": "user",
+    "pets": []
+  }
+]

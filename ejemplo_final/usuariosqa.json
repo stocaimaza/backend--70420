@@ -1,0 +1,83 @@
+[
+    {
+      "first_name": "Tinky Winky",
+      "last_name": "",
+      "email": "tinkywinky@teletubbyland.com",
+      "password": "purple456",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Dipsy",
+      "last_name": "",
+      "email": "dipsy@teletubbyland.com",
+      "password": "green789",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Laa-Laa",
+      "last_name": "",
+      "email": "laalaa@teletubbyland.com",
+      "password": "yellow123",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Po",
+      "last_name": "",
+      "email": "po@teletubbyland.com",
+      "password": "red4567",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Noo-Noo",
+      "last_name": "",
+      "email": "noonooboy@teletubbyland.com",
+      "password": "vacuum8765",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Sun Baby",
+      "last_name": "",
+      "email": "sunbaby@teletubbyland.com",
+      "password": "sunshine2025",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "The Tubby Custard Machine",
+      "last_name": "",
+      "email": "custardmachine@teletubbyland.com",
+      "password": "custard101",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "The Voice Trumpet",
+      "last_name": "",
+      "email": "voicetrumpet@teletubbyland.com",
+      "password": "voice555",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Teletubby Baby",
+      "last_name": "",
+      "email": "babyteletubby@teletubbyland.com",
+      "password": "tubbybaby999",
+      "role": "user",
+      "pets": []
+    },
+    {
+      "first_name": "Teletubby Land",
+      "last_name": "",
+      "email": "teletubbyland@teletubbyland.com",
+      "password": "land1234",
+      "role": "user",
+      "pets": []
+    }
+  ]
+  
